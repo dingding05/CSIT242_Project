@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مشروع CSIT242</string>
+    <string name="welcome_back">مرحباً بعودتك</string>
+    <string name="login_subtitle">سجل الدخول إلى حسابك</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة السر</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="signup_prompt">ليس لديك حساب؟ سجل الآن</string>
+    <string name="wallet_app">تطبيق المحفظة</string>
+    <string name="welcome_user">مرحباً بك</string>
+    <string name="welcome_format">مرحباً بك، %s</string>
+    <string name="current_balance">الرصيد الحالي</string>
+    <string name="last_month">الشهر الماضي</string>
+    <string name="recent_transactions">أحدث المعاملات</string>
+    <string name="see_all">عرض الكل</string>
+    <string name="add_transaction">+ إضافة عملية</string>
+    <string name="currency_format">درهم %.2f</string>
+    <string name="income_format">+ درهم %.2f</string>
+    <string name="expense_format">- درهم %.2f</string>
+    <string name="dashboard">لوحة التحكم</string>
+    <string name="calendar">التقويم</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="settings">الإعدادات</string>
+</resources>

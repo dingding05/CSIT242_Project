@@ -1,0 +1,14 @@
+<resources>
+    <string name="date_tv">Date</string>
+    <string name="date_btn">Select Date</string>
+    <string name="inexp_tv">Income / Expense</string>
+    <string name="income_rb">Income</string>
+    <string name="expense_rb">Expense</string>
+    <string name="amount_tv">Amount</string>
+    <string name="amount_et">Enter Amount</string>
+    <string name="date_tvo">No date selected</string>
+    <string name="category_tv">Category</string>
+    <string name="description_tv">Description</string>
+    <string name="description_et">Enter Description</string>
+    <string name="add_btn">Add Entry</string>
+</resources>
