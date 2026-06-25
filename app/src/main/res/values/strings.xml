@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">CSIT242 Project</string>
+    <string name="app_name">Tally</string>
     <string name="welcome_back">Welcome Back</string>
     <string name="login_subtitle">Login to your account</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
     <string name="signup_prompt">Don\'t have an account? Sign Up</string>
-    <string name="wallet_app">Wallet App</string>
+    <string name="wallet_app">Tally</string>
     <string name="welcome_user">Welcome, User</string>
     <string name="welcome_format">Welcome, %s</string>
     <string name="sample_date">Saturday, 16 May, 2026</string>

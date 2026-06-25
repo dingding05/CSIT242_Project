@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">Proyecto CSIT242</string>
+    <string name="app_name">Tally</string>
     <string name="welcome_back">Bienvenido de nuevo</string>
     <string name="login_subtitle">Inicie sesión en su cuenta</string>
     <string name="email">Correo electrónico</string>
     <string name="password">Contraseña</string>
     <string name="login">Iniciar sesión</string>
     <string name="signup_prompt">¿No tienes una cuenta? Regístrate</string>
-    <string name="wallet_app">Aplicación de billetera</string>
+    <string name="wallet_app">Tally</string>
     <string name="welcome_user">Bienvenido, Usuario</string>
     <string name="welcome_format">Bienvenido, %s</string>
     <string name="current_balance">SALDO ACTUAL</string>

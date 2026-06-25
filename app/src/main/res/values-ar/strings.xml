@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">مشروع CSIT242</string>
+    <string name="app_name">Tally</string>
     <string name="welcome_back">مرحباً بعودتك</string>
     <string name="login_subtitle">سجل الدخول إلى حسابك</string>
     <string name="email">البريد الإلكتروني</string>
     <string name="password">كلمة السر</string>
     <string name="login">تسجيل الدخول</string>
     <string name="signup_prompt">ليس لديك حساب؟ سجل الآن</string>
-    <string name="wallet_app">تطبيق المحفظة</string>
+    <string name="wallet_app">Tally</string>
     <string name="welcome_user">مرحباً بك</string>
     <string name="welcome_format">مرحباً بك، %s</string>
     <string name="current_balance">الرصيد الحالي</string>
